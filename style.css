@@ -1,0 +1,32 @@
+h1 {
+    font-size: 60px;
+    color: white;
+    text-align: center;
+    background-color: gray;
+    text-decoration: underline;
+    margin-bottom: 10px;
+}
+.img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    opacity: 1;
+}
+.p {
+    text-align: center;
+    color: white;
+    margin-bottom: 10px;
+}
+h2 {
+    font-size: 30px;
+    color: white;
+    text-align: center;
+    margin-bottom: 10px;
+}
+div {
+    background-color: gray;
+}
+ul {
+    text-align: center;
+    margin-bottom: 10px;
+}
